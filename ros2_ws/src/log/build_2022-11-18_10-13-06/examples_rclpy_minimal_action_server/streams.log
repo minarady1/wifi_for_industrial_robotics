@@ -1,0 +1,54 @@
+[3.425s] Invoking command in '/home/minarady/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_minimal_action_server build --build-base /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build install --prefix /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server --record /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[7.128s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[7.128s]   warnings.warn(
+[7.130s] running egg_info
+[7.130s] creating ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info
+[7.130s] writing ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[7.130s] writing dependency_links to ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[7.130s] writing entry points to ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[7.131s] writing requirements to ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[7.131s] writing top-level names to ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[7.131s] writing manifest file '../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[7.131s] reading manifest file '../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[7.131s] writing manifest file '../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[7.131s] running build
+[7.131s] running build_py
+[7.131s] creating /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build
+[7.131s] creating /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib
+[7.131s] creating /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] copying examples_rclpy_minimal_action_server/server_defer.py -> /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] copying examples_rclpy_minimal_action_server/server_not_composable.py -> /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] copying examples_rclpy_minimal_action_server/server.py -> /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] copying examples_rclpy_minimal_action_server/__init__.py -> /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] copying examples_rclpy_minimal_action_server/server_single_goal.py -> /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] copying examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[7.131s] running install
+[7.131s] running install_lib
+[7.131s] creating /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.131s] copying /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_defer.py -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.131s] copying /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_not_composable.py -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.131s] copying /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server.py -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.131s] copying /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/__init__.py -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.132s] copying /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_single_goal.py -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.132s] copying /home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[7.132s] byte-compiling /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_defer.py to server_defer.cpython-310.pyc
+[7.132s] byte-compiling /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_not_composable.py to server_not_composable.cpython-310.pyc
+[7.132s] byte-compiling /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server.py to server.cpython-310.pyc
+[7.132s] byte-compiling /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/__init__.py to __init__.cpython-310.pyc
+[7.132s] byte-compiling /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_single_goal.py to server_single_goal.cpython-310.pyc
+[7.132s] byte-compiling /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_queue_goals.py to server_queue_goals.cpython-310.pyc
+[7.132s] running install_data
+[7.132s] creating /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/share/ament_index
+[7.132s] creating /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[7.132s] creating /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[7.132s] copying resource/examples_rclpy_minimal_action_server -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[7.132s] copying package.xml -> /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[7.132s] running install_egg_info
+[7.132s] Copying ../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info
+[7.132s] running install_scripts
+[7.132s] Installing server script to /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.132s] Installing server_defer script to /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.132s] Installing server_not_composable script to /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.132s] Installing server_queue_goals script to /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.132s] Installing server_single_goal script to /home/minarady/ros2_ws/src/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.132s] writing list of installed files to '/home/minarady/ros2_ws/src/build/examples_rclpy_minimal_action_server/install.log'

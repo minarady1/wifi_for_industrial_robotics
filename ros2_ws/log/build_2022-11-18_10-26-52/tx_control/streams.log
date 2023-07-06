@@ -1,0 +1,38 @@
+[0.451s] Invoking command in '/home/minarady/ros2_ws/src/tx_control': PYTHONPATH=/home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tx_control build --build-base /home/minarady/ros2_ws/build/tx_control/build install --prefix /home/minarady/ros2_ws/install/tx_control --record /home/minarady/ros2_ws/build/tx_control/install.log --single-version-externally-managed
+[0.640s] running egg_info
+[0.640s] writing ../../build/tx_control/tx_control.egg-info/PKG-INFO
+[0.651s] writing dependency_links to ../../build/tx_control/tx_control.egg-info/dependency_links.txt
+[0.651s] writing entry points to ../../build/tx_control/tx_control.egg-info/entry_points.txt
+[0.651s] writing requirements to ../../build/tx_control/tx_control.egg-info/requires.txt
+[0.651s] writing top-level names to ../../build/tx_control/tx_control.egg-info/top_level.txt
+[0.653s] reading manifest file '../../build/tx_control/tx_control.egg-info/SOURCES.txt'
+[0.656s] writing manifest file '../../build/tx_control/tx_control.egg-info/SOURCES.txt'
+[0.656s] running build
+[0.656s] running build_py
+[0.657s] copying tx_control/subscriber_member_function.py -> /home/minarady/ros2_ws/build/tx_control/build/lib/tx_control
+[0.658s] running install
+[0.658s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.658s]   warnings.warn(
+[0.658s] running install_lib
+[0.659s] creating /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control
+[0.659s] copying /home/minarady/ros2_ws/build/tx_control/build/lib/tx_control/subscriber_member_function.py -> /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control
+[0.659s] copying /home/minarady/ros2_ws/build/tx_control/build/lib/tx_control/publisher_member_function.py -> /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control
+[0.660s] copying /home/minarady/ros2_ws/build/tx_control/build/lib/tx_control/__init__.py -> /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control
+[0.660s] copying /home/minarady/ros2_ws/build/tx_control/build/lib/tx_control/my_node.py -> /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control
+[0.661s] byte-compiling /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[0.662s] byte-compiling /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[0.663s] byte-compiling /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control/__init__.py to __init__.cpython-310.pyc
+[0.663s] byte-compiling /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control/my_node.py to my_node.cpython-310.pyc
+[0.663s] running install_data
+[0.664s] creating /home/minarady/ros2_ws/install/tx_control/share/ament_index
+[0.664s] creating /home/minarady/ros2_ws/install/tx_control/share/ament_index/resource_index
+[0.664s] creating /home/minarady/ros2_ws/install/tx_control/share/ament_index/resource_index/packages
+[0.664s] copying resource/tx_control -> /home/minarady/ros2_ws/install/tx_control/share/ament_index/resource_index/packages
+[0.664s] copying package.xml -> /home/minarady/ros2_ws/install/tx_control/share/tx_control
+[0.665s] running install_egg_info
+[0.666s] Copying ../../build/tx_control/tx_control.egg-info to /home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages/tx_control-0.0.0-py3.10.egg-info
+[0.667s] running install_scripts
+[0.691s] Installing listener script to /home/minarady/ros2_ws/install/tx_control/lib/tx_control
+[0.691s] Installing talker script to /home/minarady/ros2_ws/install/tx_control/lib/tx_control
+[0.691s] writing list of installed files to '/home/minarady/ros2_ws/build/tx_control/install.log'
+[0.709s] Invoked command in '/home/minarady/ros2_ws/src/tx_control' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/tx_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tx_control build --build-base /home/minarady/ros2_ws/build/tx_control/build install --prefix /home/minarady/ros2_ws/install/tx_control --record /home/minarady/ros2_ws/build/tx_control/install.log --single-version-externally-managed

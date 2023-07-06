@@ -1,0 +1,81 @@
+[0.071s] Invoking command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set -- -j20 -l20
+[7.365s] [  4%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[7.365s] [  8%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[7.365s] [ 12%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[7.366s] [ 16%] [32mBuilding CXX object CMakeFiles/wait_set_listener.dir/rclcpp_components/node_main_wait_set_listener.cpp.o[0m
+[7.366s] [ 20%] [32mBuilding CXX object CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o[0m
+[7.366s] [ 25%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[7.366s] [ 29%] [32mBuilding CXX object CMakeFiles/thread_safe_wait_set.dir/src/thread_safe_wait_set.cpp.o[0m
+[7.366s] [ 33%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[7.366s] [ 41%] [32mBuilding CXX object CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o[0m
+[7.366s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o[0m
+[7.366s] [ 45%] [32mBuilding CXX object CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o[0m
+[12.713s] [ 50%] [32m[1mLinking CXX executable wait_set_talker[0m
+[13.057s] [ 50%] Built target wait_set_talker
+[13.475s] [ 54%] [32m[1mLinking CXX executable wait_set_listener[0m
+[13.827s] [ 54%] Built target wait_set_listener
+[14.486s] [ 58%] [32m[1mLinking CXX shared library libtalker.so[0m
+[15.093s] [ 58%] Built target talker
+[21.052s] [ 62%] [32m[1mLinking CXX executable wait_set_topics_and_timer[0m
+[21.569s] [ 62%] Built target wait_set_topics_and_timer
+[22.342s] [ 66%] [32m[1mLinking CXX executable executor_random_order[0m
+[22.383s] [ 70%] [32m[1mLinking CXX executable static_wait_set[0m
+[22.591s] [ 75%] [32m[1mLinking CXX executable wait_set_topics_with_different_rates[0m
+[22.672s] [ 75%] Built target executor_random_order
+[22.794s] [ 79%] [32m[1mLinking CXX shared library liblistener.so[0m
+[22.879s] [ 79%] Built target static_wait_set
+[22.934s] [ 79%] Built target wait_set_topics_with_different_rates
+[23.086s] [ 83%] [32m[1mLinking CXX executable wait_set[0m
+[23.128s] [ 83%] Built target listener
+[23.142s] [ 87%] [32mBuilding CXX object CMakeFiles/wait_set_composed.dir/src/wait_set_composed.cpp.o[0m
+[23.240s] [ 91%] [32m[1mLinking CXX executable thread_safe_wait_set[0m
+[23.304s] [ 95%] [32m[1mLinking CXX executable wait_set_random_order[0m
+[23.433s] [ 95%] Built target wait_set
+[23.571s] [ 95%] Built target thread_safe_wait_set
+[23.609s] [ 95%] Built target wait_set_random_order
+[24.827s] [100%] [32m[1mLinking CXX executable wait_set_composed[0m
+[25.027s] [100%] Built target wait_set_composed
+[25.037s] Invoked command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set -- -j20 -l20
+[25.097s] Invoking command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set
+[25.105s] -- Install configuration: ""
+[25.106s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[25.106s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker" to ""
+[25.106s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[25.107s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener" to ""
+[25.107s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/libtalker.so
+[25.109s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/libtalker.so" to ""
+[25.109s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/liblistener.so
+[25.116s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/liblistener.so" to ""
+[25.116s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[25.120s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set" to ""
+[25.120s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[25.123s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set" to ""
+[25.124s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[25.128s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set" to ""
+[25.128s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[25.132s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer" to ""
+[25.132s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[25.136s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order" to ""
+[25.136s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[25.139s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order" to ""
+[25.139s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[25.143s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates" to ""
+[25.143s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[25.143s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed" to ""
+[25.144s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[25.144s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[25.144s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[25.144s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[25.144s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[25.144s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[25.145s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[25.146s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[25.147s] Invoked command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/src/build/examples_rclcpp_wait_set

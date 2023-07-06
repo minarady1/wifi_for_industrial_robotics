@@ -1,0 +1,23 @@
+[0.063s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j20 -l20
+[1.255s] [100%] Built target multithreaded_executor
+[1.264s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j20 -l20
+[1.303s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[1.329s] -- Install configuration: ""
+[1.329s] -- Execute custom install script
+[1.329s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/lib/examples_rclcpp_multithreaded_executor/multithreaded_executor
+[1.330s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_multithreaded_executor
+[1.330s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_multithreaded_executor
+[1.330s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.sh
+[1.330s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.dsv
+[1.330s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.sh
+[1.330s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.dsv
+[1.332s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.bash
+[1.332s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.sh
+[1.332s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.zsh
+[1.332s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.dsv
+[1.333s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.dsv
+[1.338s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/packages/examples_rclcpp_multithreaded_executor
+[1.338s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig.cmake
+[1.339s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig-version.cmake
+[1.339s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.xml
+[1.428s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_multithreaded_executor

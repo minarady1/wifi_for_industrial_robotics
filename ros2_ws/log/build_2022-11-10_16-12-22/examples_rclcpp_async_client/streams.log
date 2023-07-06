@@ -1,0 +1,68 @@
+[0.069s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minarady/ros2_ws/src/examples/rclcpp/services/async_client -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minarady/ros2_ws/install/examples_rclcpp_async_client
+[1.354s] -- The C compiler identification is GNU 11.3.0
+[1.354s] -- The CXX compiler identification is GNU 11.3.0
+[1.354s] -- Detecting C compiler ABI info
+[1.354s] -- Detecting C compiler ABI info - done
+[1.354s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.354s] -- Detecting C compile features
+[1.354s] -- Detecting C compile features - done
+[1.354s] -- Detecting CXX compiler ABI info
+[1.354s] -- Detecting CXX compiler ABI info - done
+[1.355s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.355s] -- Detecting CXX compile features
+[1.355s] -- Detecting CXX compile features - done
+[1.355s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.355s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.355s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.355s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[1.355s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.355s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.355s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.356s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.356s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.356s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[1.356s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.356s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.356s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.356s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.356s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.356s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.356s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.356s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.356s] -- Configured cppcheck include dirs: 
+[1.356s] -- Configured cppcheck exclude dirs and/or files: 
+[1.356s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.356s] -- Configured cpplint exclude dirs and/or files: 
+[1.356s] -- Added test 'lint_cmake' to check CMake code style
+[1.356s] -- Added test 'uncrustify' to check C / C++ code style
+[1.356s] -- Configured uncrustify additional arguments: 
+[1.356s] -- Added test 'xmllint' to check XML markup files
+[1.356s] -- Configuring done
+[1.356s] -- Generating done
+[1.356s] -- Build files have been written to: /home/minarady/ros2_ws/build/examples_rclcpp_async_client
+[1.399s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/minarady/ros2_ws/src/examples/rclcpp/services/async_client -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/minarady/ros2_ws/install/examples_rclcpp_async_client
+[1.400s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_async_client -- -j20 -l20
+[1.406s] [ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[10.964s] [100%] [32m[1mLinking CXX executable client_main[0m
+[11.413s] [100%] Built target client_main
+[11.462s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_async_client -- -j20 -l20
+[12.382s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_async_client
+[12.402s] -- Install configuration: ""
+[12.402s] -- Execute custom install script
+[12.402s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main
+[12.442s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_async_client
+[12.486s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_async_client
+[12.524s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.sh
+[12.538s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.dsv
+[12.571s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.sh
+[12.579s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.dsv
+[12.593s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.bash
+[12.602s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.sh
+[12.626s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.zsh
+[12.634s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.dsv
+[12.645s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.dsv
+[12.653s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/packages/examples_rclcpp_async_client
+[12.662s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig.cmake
+[12.676s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig-version.cmake
+[12.705s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.xml
+[12.741s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_async_client

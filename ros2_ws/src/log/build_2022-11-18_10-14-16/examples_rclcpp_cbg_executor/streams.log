@@ -1,0 +1,44 @@
+[0.081s] Invoking command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor -- -j20 -l20
+[7.127s] [ 10%] [32mBuilding CXX object CMakeFiles/ping.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[7.127s] [ 20%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/ping_pong.cpp.o[0m
+[7.127s] [ 30%] [32mBuilding CXX object CMakeFiles/ping.dir/src/ping.cpp.o[0m
+[7.128s] [ 40%] [32mBuilding CXX object CMakeFiles/pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[7.128s] [ 50%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[7.128s] [ 60%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[7.128s] [ 70%] [32mBuilding CXX object CMakeFiles/pong.dir/src/pong.cpp.o[0m
+[19.638s] [ 80%] [32m[1mLinking CXX executable pong[0m
+[20.355s] [ 80%] Built target pong
+[21.995s] [ 90%] [32m[1mLinking CXX executable ping[0m
+[22.526s] [ 90%] Built target ping
+[22.560s] [100%] [32m[1mLinking CXX executable ping_pong[0m
+[23.281s] [100%] Built target ping_pong
+[23.289s] Invoked command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor -- -j20 -l20
+[23.311s] Invoking command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor
+[23.316s] -- Install configuration: ""
+[23.316s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping
+[23.319s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping" to ""
+[23.319s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong
+[23.321s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong" to ""
+[23.321s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong
+[23.323s] -- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong" to ""
+[23.323s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/include
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/ping_node.hpp
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/pong_node.hpp
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_cbg_executor
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_cbg_executor
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.sh
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.dsv
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.sh
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.dsv
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.bash
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.sh
+[23.324s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.zsh
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.dsv
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.dsv
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/packages/examples_rclcpp_cbg_executor
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/ament_cmake_export_dependencies-extras.cmake
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig.cmake
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig-version.cmake
+[23.325s] -- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.xml
+[23.328s] Invoked command in '/home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/tx_control:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/src/build/examples_rclcpp_cbg_executor

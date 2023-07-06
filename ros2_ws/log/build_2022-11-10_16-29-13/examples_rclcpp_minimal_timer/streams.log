@@ -1,0 +1,54 @@
+[0.063s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/minarady/ros2_ws/src/examples/rclcpp/timers/minimal_timer -DCMAKE_INSTALL_PREFIX=/home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer
+[1.459s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.459s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.459s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[1.459s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.459s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.459s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.459s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.459s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.459s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.459s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.459s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.459s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.460s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.460s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.460s] -- Configured cppcheck include dirs: 
+[1.460s] -- Configured cppcheck exclude dirs and/or files: 
+[1.460s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.460s] -- Configured cpplint exclude dirs and/or files: 
+[1.460s] -- Added test 'lint_cmake' to check CMake code style
+[1.460s] -- Added test 'uncrustify' to check C / C++ code style
+[1.460s] -- Configured uncrustify additional arguments: 
+[1.460s] -- Added test 'xmllint' to check XML markup files
+[1.460s] -- Configuring done
+[1.460s] -- Generating done
+[1.460s] -- Build files have been written to: /home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer
+[1.473s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/minarady/ros2_ws/src/examples/rclcpp/timers/minimal_timer -DCMAKE_INSTALL_PREFIX=/home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer
+[1.474s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer -- -j20 -l20
+[1.482s] [35m[1mConsolidate compiler generated dependencies of target timer_lambda[0m
+[1.482s] [35m[1mConsolidate compiler generated dependencies of target timer_member_function[0m
+[1.495s] [ 50%] Built target timer_lambda
+[1.516s] [100%] Built target timer_member_function
+[1.537s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer -- -j20 -l20
+[1.583s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer
+[1.593s] -- Install configuration: ""
+[1.595s] -- Execute custom install script
+[1.597s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_lambda
+[1.597s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_member_function
+[1.597s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_timer
+[1.597s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_timer
+[1.597s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.sh
+[1.598s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.dsv
+[1.599s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.sh
+[1.599s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.dsv
+[1.599s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.bash
+[1.601s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.sh
+[1.601s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.zsh
+[1.601s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.dsv
+[1.602s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.dsv
+[1.604s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/packages/examples_rclcpp_minimal_timer
+[1.605s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig.cmake
+[1.605s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig-version.cmake
+[1.605s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.xml
+[1.653s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/minarady/ros2_ws/install/launch_testing_examples:/home/minarady/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher:/home/minarady/ros2_ws/install/examples_rclpy_minimal_client:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_server:/home/minarady/ros2_ws/install/examples_rclpy_minimal_action_client:/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions:/home/minarady/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_minimal_timer

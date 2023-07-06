@@ -1,0 +1,39 @@
+[1.923s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_executors --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_executors/build
+[2.070s] running develop
+[2.070s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.070s]   warnings.warn(
+[2.071s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.071s]   warnings.warn(
+[2.102s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.103s]   warnings.warn(
+[2.103s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.103s]   warnings.warn(
+[2.176s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_executors --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_executors/build
+[2.178s] Invoking command in '/home/minarady/ros2_ws/src/examples/rclpy/executors': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/minarady/ros2_ws/build/examples_rclpy_executors/build install --prefix /home/minarady/ros2_ws/install/examples_rclpy_executors --record /home/minarady/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[2.318s] running egg_info
+[2.318s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[2.319s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[2.319s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[2.319s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[2.319s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[2.320s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.321s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.321s] running build
+[2.321s] running build_py
+[2.321s] running install
+[2.321s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.321s]   warnings.warn(
+[2.321s] running install_lib
+[2.322s] running install_data
+[2.322s] running install_egg_info
+[2.323s] removing '/home/minarady/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info' (and everything under it)
+[2.323s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info
+[2.323s] running install_scripts
+[2.338s] Installing callback_group script to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.338s] Installing composed script to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.338s] Installing custom_callback_group script to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.338s] Installing custom_executor script to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.338s] Installing listener script to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.338s] Installing talker script to /home/minarady/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.338s] writing list of installed files to '/home/minarady/ros2_ws/build/examples_rclpy_executors/install.log'
+[2.371s] Invoked command in '/home/minarady/ros2_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/minarady/ros2_ws/build/examples_rclpy_executors/build install --prefix /home/minarady/ros2_ws/install/examples_rclpy_executors --record /home/minarady/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed

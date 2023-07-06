@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable client_main[0m
+[100%] Built target client_main
+-- Install configuration: ""
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/lib/examples_rclcpp_minimal_client/client_main
+-- Set runtime path of "/home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/lib/examples_rclcpp_minimal_client/client_main" to ""
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_client
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_client
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.sh
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.dsv
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.sh
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.dsv
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.bash
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.sh
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.zsh
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.dsv
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.dsv
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_client
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig.cmake
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig-version.cmake
+-- Installing: /home/minarady/ros2_ws/src/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.xml

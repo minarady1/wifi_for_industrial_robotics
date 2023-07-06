@@ -1,0 +1,44 @@
+[0.062s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j20 -l20
+[1.090s] [  8%] Built target subscriber_member_function_with_type_adapter
+[1.090s] [ 16%] Built target subscriber_lambda
+[1.090s] [ 25%] Built target subscriber_member_function_with_unique_network_flow_endpoints
+[1.090s] [ 41%] Built target wait_set_subscriber_library
+[1.091s] [ 50%] Built target subscriber_member_function
+[1.091s] [ 58%] Built target subscriber_content_filtering
+[1.091s] [ 66%] Built target time_triggered_wait_set_subscriber
+[1.091s] [ 75%] Built target wait_set_subscriber
+[1.091s] [ 83%] Built target static_wait_set_subscriber
+[1.091s] [ 91%] Built target subscriber_member_function_with_topic_statistics
+[1.091s] [100%] Built target subscriber_not_composable
+[1.100s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j20 -l20
+[1.166s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber
+[1.169s] -- Install configuration: ""
+[1.169s] -- Execute custom install script
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/wait_set_subscriber
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/static_wait_set_subscriber
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/time_triggered_wait_set_subscriber
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/libwait_set_subscriber_library.so
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_lambda
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function_with_topic_statistics
+[1.169s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function_with_type_adapter
+[1.170s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function_with_unique_network_flow_endpoints
+[1.170s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_not_composable
+[1.170s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_content_filtering
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_subscriber
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_subscriber
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/ament_prefix_path.sh
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/ament_prefix_path.dsv
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/path.sh
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/path.dsv
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.bash
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.sh
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.zsh
+[1.171s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.dsv
+[1.171s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/package.dsv
+[1.172s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/packages/examples_rclcpp_minimal_subscriber
+[1.172s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_minimal_subscriber
+[1.172s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/cmake/examples_rclcpp_minimal_subscriberConfig.cmake
+[1.172s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/cmake/examples_rclcpp_minimal_subscriberConfig-version.cmake
+[1.172s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/package.xml
+[1.269s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_minimal_subscriber

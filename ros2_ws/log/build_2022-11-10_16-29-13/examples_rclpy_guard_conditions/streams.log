@@ -1,0 +1,11 @@
+[1.996s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclpy_guard_conditions': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_guard_conditions --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_guard_conditions/build
+[2.404s] running develop
+[2.404s] Removing /home/minarady/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[2.404s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.404s]   warnings.warn(
+[2.404s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.404s]   warnings.warn(
+[2.404s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.404s]   warnings.warn(
+[2.404s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.404s]   warnings.warn(

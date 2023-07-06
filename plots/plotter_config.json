@@ -1,0 +1,8 @@
+{
+       "var_name"   : "phy_tx_bitrate",
+       "timestamp"  : "phy_timestamp_s",
+       "xlabel"     : "Time (s)",
+       "ylabel"     : "Tx bitrate (mbps)",
+       "stepy"      : 20,
+       "ylimit"     : [0,200],
+}

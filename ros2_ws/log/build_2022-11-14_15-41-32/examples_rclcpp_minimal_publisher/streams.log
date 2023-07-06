@@ -1,0 +1,33 @@
+[0.063s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j20 -l20
+[1.263s] [ 16%] Built target publisher_member_function
+[1.263s] [ 33%] Built target publisher_member_function_with_type_adapter
+[1.263s] [ 50%] Built target publisher_wait_for_all_acked
+[1.263s] [ 66%] Built target publisher_not_composable
+[1.263s] [ 83%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[1.263s] [100%] Built target publisher_lambda
+[1.271s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j20 -l20
+[1.346s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher
+[1.351s] -- Install configuration: ""
+[1.351s] -- Execute custom install script
+[1.351s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[1.351s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[1.351s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter
+[1.351s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[1.352s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[1.355s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[1.355s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[1.356s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[1.356s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[1.356s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[1.356s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[1.363s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[1.364s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[1.364s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[1.364s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml
+[1.489s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_minimal_publisher

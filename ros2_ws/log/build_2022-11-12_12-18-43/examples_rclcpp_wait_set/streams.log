@@ -1,0 +1,46 @@
+[0.056s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_wait_set -- -j20 -l20
+[1.051s] [  8%] Built target wait_set_talker
+[1.051s] [ 16%] Built target talker
+[1.051s] [ 25%] Built target listener
+[1.051s] [ 33%] Built target static_wait_set
+[1.052s] [ 41%] Built target wait_set
+[1.052s] [ 58%] Built target wait_set_topics_and_timer
+[1.053s] [ 58%] Built target thread_safe_wait_set
+[1.053s] [ 66%] Built target wait_set_random_order
+[1.053s] [ 75%] Built target executor_random_order
+[1.053s] [ 83%] Built target wait_set_topics_with_different_rates
+[1.053s] [ 91%] Built target wait_set_listener
+[1.053s] [100%] Built target wait_set_composed
+[1.062s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_wait_set -- -j20 -l20
+[1.116s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_wait_set
+[1.122s] -- Install configuration: ""
+[1.122s] -- Execute custom install script
+[1.123s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[1.123s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[1.123s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[1.123s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[1.123s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[1.124s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[1.124s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[1.124s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[1.125s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[1.125s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[1.125s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[1.125s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[1.129s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[1.129s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[1.129s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[1.129s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[1.129s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[1.129s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[1.130s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[1.130s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[1.131s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[1.190s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_wait_set

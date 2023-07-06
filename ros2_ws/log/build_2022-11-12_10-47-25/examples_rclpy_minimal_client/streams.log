@@ -1,0 +1,37 @@
+[1.494s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclpy_minimal_client': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_client --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_minimal_client/build
+[1.622s] running develop
+[1.623s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.623s]   warnings.warn(
+[1.623s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.623s]   warnings.warn(
+[1.648s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.648s]   warnings.warn(
+[1.648s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.648s]   warnings.warn(
+[1.911s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclpy_minimal_client' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_client --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_minimal_client/build
+[1.913s] Invoking command in '/home/minarady/ros2_ws/src/examples/rclpy/services/minimal_client': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/minarady/ros2_ws/build/examples_rclpy_minimal_client/build install --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_client --record /home/minarady/ros2_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed
+[2.144s] running egg_info
+[2.145s] writing ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/PKG-INFO
+[2.145s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/dependency_links.txt
+[2.145s] writing entry points to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/entry_points.txt
+[2.146s] writing requirements to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/requires.txt
+[2.146s] writing top-level names to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/top_level.txt
+[2.147s] reading manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[2.148s] writing manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[2.148s] running build
+[2.148s] running build_py
+[2.149s] running install
+[2.149s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.149s]   warnings.warn(
+[2.149s] running install_lib
+[2.151s] running install_data
+[2.151s] running install_egg_info
+[2.153s] removing '/home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client-0.15.1-py3.10.egg-info' (and everything under it)
+[2.153s] Copying ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info to /home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client-0.15.1-py3.10.egg-info
+[2.154s] running install_scripts
+[2.175s] Installing client script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[2.175s] Installing client_async script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[2.175s] Installing client_async_callback script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[2.176s] Installing client_async_member_function script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[2.176s] writing list of installed files to '/home/minarady/ros2_ws/build/examples_rclpy_minimal_client/install.log'
+[2.200s] Invoked command in '/home/minarady/ros2_ws/src/examples/rclpy/services/minimal_client' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/minarady/ros2_ws/build/examples_rclpy_minimal_client/build install --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_client --record /home/minarady/ros2_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed

@@ -1,0 +1,27 @@
+[1.349s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps install_data --install-dir /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber
+[1.487s] running develop
+[1.488s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.488s]   warnings.warn(
+[1.489s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.489s]   warnings.warn(
+[1.517s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.517s]   warnings.warn(
+[1.517s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.517s]   warnings.warn(
+[1.567s] running egg_info
+[1.567s] writing examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[1.567s] writing dependency_links to examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[1.567s] writing entry points to examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[1.568s] writing requirements to examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[1.568s] writing top-level names to examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[1.568s] reading manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.568s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.569s] running build_ext
+[1.569s] Creating /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[1.570s] Installing subscriber_lambda script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.570s] Installing subscriber_member_function script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.571s] Installing subscriber_old_school script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.571s] 
+[1.571s] Installed /home/minarady/ros2_ws/build/examples_rclpy_minimal_subscriber
+[1.571s] running install_data
+[1.783s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclpy_minimal_subscriber' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps install_data --install-dir /home/minarady/ros2_ws/install/examples_rclpy_minimal_subscriber

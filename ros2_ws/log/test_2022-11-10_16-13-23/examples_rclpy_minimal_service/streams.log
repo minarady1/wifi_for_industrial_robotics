@@ -1,0 +1,22 @@
+[0.879s] Invoking command in '/home/minarady/ros2_ws/src/examples/rclpy/services/minimal_service': AMENT_PREFIX_PATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/minarady/ros2_ws/build/examples_rclpy_minimal_service/pytest.xml --junit-prefix=examples_rclpy_minimal_service -o cache_dir=/home/minarady/ros2_ws/build/examples_rclpy_minimal_service/.pytest_cache PYTHONPATH=/home/minarady/ros2_ws/build/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[1.051s] [1m============================= test session starts ==============================[0m
+[1.051s] platform linux -- Python 3.10.6, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[1.052s] cachedir: /home/minarady/ros2_ws/build/examples_rclpy_minimal_service/.pytest_cache
+[1.052s] rootdir: /home/minarady/ros2_ws/src/examples/rclpy, configfile: pytest.ini
+[1.052s] plugins: ament-xmllint-0.12.4, launch-testing-ros-0.19.3, ament-pep257-0.12.4, ament-lint-0.12.4, ament-flake8-0.12.4, launch-testing-1.0.3, ament-copyright-0.12.4, cov-3.0.0, colcon-core-0.10.0
+[1.125s] [1mcollecting ... [0m[1m
+[1.125s] collected 3 items                                                              [0m
+[1.126s] 
+[1.266s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[1.361s] test/test_flake8.py [32m.[0m[33m                                                    [ 66%][0m
+[1.387s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[1.387s] 
+[1.387s] [33m=============================== warnings summary ===============================[0m
+[1.387s] services/minimal_service/test/test_flake8.py::test_flake8
+[1.387s] services/minimal_service/test/test_flake8.py::test_flake8
+[1.387s]   Warning: SelectableGroups dict interface is deprecated. Use select.
+[1.387s] 
+[1.387s] -- Docs: https://docs.pytest.org/en/stable/warnings.html
+[1.387s] - generated xml file: /home/minarady/ros2_ws/build/examples_rclpy_minimal_service/pytest.xml -
+[1.387s] [33m======================== [32m3 passed[0m, [33m[1m2 warnings[0m[33m in 0.35s[0m[33m =========================[0m
+[1.605s] Invoked command in '/home/minarady/ros2_ws/src/examples/rclpy/services/minimal_service' returned '0': AMENT_PREFIX_PATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_service:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/minarady/ros2_ws/build/examples_rclpy_minimal_service/pytest.xml --junit-prefix=examples_rclpy_minimal_service -o cache_dir=/home/minarady/ros2_ws/build/examples_rclpy_minimal_service/.pytest_cache PYTHONPATH=/home/minarady/ros2_ws/build/examples_rclpy_minimal_service:/home/minarady/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

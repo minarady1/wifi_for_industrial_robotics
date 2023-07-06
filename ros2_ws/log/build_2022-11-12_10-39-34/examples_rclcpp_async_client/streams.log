@@ -1,0 +1,23 @@
+[0.067s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_async_client -- -j20 -l20
+[1.108s] [100%] Built target client_main
+[1.118s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/minarady/ros2_ws/build/examples_rclcpp_async_client -- -j20 -l20
+[1.155s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_async_client
+[1.177s] -- Install configuration: ""
+[1.177s] -- Execute custom install script
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_async_client
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_async_client
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.sh
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.dsv
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.sh
+[1.177s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.dsv
+[1.178s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.bash
+[1.178s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.sh
+[1.178s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.zsh
+[1.178s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.dsv
+[1.178s] -- Symlinking: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.dsv
+[1.186s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/packages/examples_rclcpp_async_client
+[1.187s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig.cmake
+[1.187s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig-version.cmake
+[1.188s] -- Up-to-date symlink: /home/minarady/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.xml
+[1.221s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/minarady/ros2_ws/build/examples_rclcpp_async_client

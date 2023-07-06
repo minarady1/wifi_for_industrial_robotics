@@ -1,0 +1,51 @@
+[1.564s] Invoking command in '/home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build
+[1.902s] running develop
+[1.902s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.902s]   warnings.warn(
+[1.902s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.902s]   warnings.warn(
+[1.902s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.903s]   warnings.warn(
+[1.903s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.903s]   warnings.warn(
+[1.934s] Invoked command in '/home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher --uninstall --editable --build-directory /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build
+[1.935s] Invoking command in '/home/minarady/ros2_ws/src/examples/rclpy/topics/minimal_publisher': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build install --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher --record /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed
+[2.156s] running egg_info
+[2.157s] writing ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[2.158s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[2.158s] writing entry points to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[2.158s] writing requirements to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/requires.txt
+[2.158s] writing top-level names to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[2.160s] reading manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[2.161s] writing manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[2.161s] running build
+[2.161s] running build_py
+[2.162s] creating /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build
+[2.162s] creating /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib
+[2.162s] creating /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[2.162s] copying examples_rclpy_minimal_publisher/publisher_local_function.py -> /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[2.162s] copying examples_rclpy_minimal_publisher/publisher_old_school.py -> /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[2.162s] copying examples_rclpy_minimal_publisher/publisher_member_function.py -> /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[2.162s] copying examples_rclpy_minimal_publisher/__init__.py -> /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[2.162s] running install
+[2.162s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.162s]   warnings.warn(
+[2.163s] running install_lib
+[2.163s] creating /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher
+[2.163s] copying /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/publisher_local_function.py -> /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher
+[2.163s] copying /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/publisher_old_school.py -> /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher
+[2.163s] copying /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/publisher_member_function.py -> /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher
+[2.164s] copying /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/__init__.py -> /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher
+[2.164s] byte-compiling /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher/publisher_local_function.py to publisher_local_function.cpython-310.pyc
+[2.164s] byte-compiling /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher/publisher_old_school.py to publisher_old_school.cpython-310.pyc
+[2.165s] byte-compiling /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[2.165s] byte-compiling /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher/__init__.py to __init__.cpython-310.pyc
+[2.165s] running install_data
+[2.166s] running install_egg_info
+[2.167s] Copying ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info to /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.1-py3.10.egg-info
+[2.168s] running install_scripts
+[2.188s] Installing publisher_local_function script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.188s] Installing publisher_member_function script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.189s] Installing publisher_old_school script to /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[2.189s] writing list of installed files to '/home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/install.log'
+[2.216s] Invoked command in '/home/minarady/ros2_ws/src/examples/rclpy/topics/minimal_publisher' returned '0': PYTHONPATH=/home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/build install --prefix /home/minarady/ros2_ws/install/examples_rclpy_minimal_publisher --record /home/minarady/ros2_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed

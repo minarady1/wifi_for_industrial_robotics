@@ -1,0 +1,4 @@
+[console_scripts]
+listener = tx_control.subscriber_member_function:main
+talker = tx_control.publisher_member_function:main
+
