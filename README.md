@@ -2,7 +2,7 @@
 This the source code and the source data obtained for our experiments in evaluating WiFi perfrance for industrial robotics
 
 ## raw data
-The collected raw data are available under the `/logs' directory. 
+The collected raw data are available under the [logs](logs) directory. 
 
 ## post-processed clean database
 The raw data are cleaned and organized in one [JSON Database](plots/perama_range_testing.json)
@@ -23,6 +23,6 @@ The JSON file structured as follows:
   * ROS control subscriber for control packet reception and logging over ROS2
   * PTP status capture using a simple custom-made `cmd_logger.py` tool
   * Network Interface statistics capture using `cmd_logger`
-  * Access Point scanning using `cmd_looger`
+  * Access Point scanning using `cmd_logger`
  
 For any questions, feel free to reach me at minarady@insa-lyon.fr 
