@@ -10,7 +10,8 @@ The JSON file structured as follows:
 
 * Locations (4 locations)
     * PHY configuration (9 configurations for each location)
-        * Parameter (4 groups of parameters, timestap array for each group)
+        * Parameter (5 groups of parameters with group prefix, timestap array for each group)
+            * prefixes: control (from ros application) , ptp (from PTP deamon), phy (network interface PHY stats), apscan (access point scans), iperf (logged iperf metrics) 
             * Array of measurements (one per parameter) 
         
  
