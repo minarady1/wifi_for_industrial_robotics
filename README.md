@@ -14,3 +14,15 @@ The JSON file structured as follows:
             * Array of measurements (one per parameter) 
         
  
+## Scripts
+
+- WiFi configurations are grouped in different `main_x.bash` files.
+- The script in each `main_x.bash` connects to a certain frequencey band then executes the `run.bash` script which intiates the measurement campaign
+- `run.bash` script starts the following scripts in parallel:
+  * iPerf script for throughput testing using simple custom-made `iperf.py` script
+  * ROS control subscriber for control packet reception and logging over ROS2
+  * PTP status capture using a simple custom-made `cmd_logger.py` tool
+  * Network Interface statistics capture using `cmd_logger`
+  * Access Point scanning using `cmd_looger`
+ 
+For any questions, feel free to reach me at minarady@insa-lyon.fr 
