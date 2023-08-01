@@ -1,4 +1,4 @@
-# Wi-Fi evaluation for industrial reobotics   
+# Wi-Fi evaluation for industrial robotics   
 This the source code and the source data obtained for our experiments in evaluating WiFi perfrance for industrial robotics in the Perama Shipyard, Piraeus, Greece. 
 
 ## raw data
