@@ -26,4 +26,4 @@ The JSON file structured as follows:
   * Network Interface statistics capture using `cmd_logger`
   * Access Point scanning using `cmd_logger`
  
-For any questions, feel free to reach me at minarady@insa-lyon.fr 
+For any questions, feel free to reach me at mina.rady@insa-lyon.fr 
